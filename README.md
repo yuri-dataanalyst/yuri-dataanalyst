@@ -105,16 +105,16 @@ Here are some highlights of my work. For a complete list, please visit my [repos
 I'm always open to discussing data, new technologies, and potential opportunities.
 
 <p align="center">
-  <a href="[www.linkedin.com/in/yuri-arzumanyan-244793398]">
+  <a href="[https://www.linkedin.com/in/yuri-arzumanyan/]">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:[yuarzumanyan@gmail.com]">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="[Your Tableau Public URL Here (Optional)]">
+  <a>
     <img src="https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Public"/>
   </a>
-  <a href="https://github.com/yuarzumanyan-coder">
+  <a href="https://github.com/yuri-dataanalyst">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
