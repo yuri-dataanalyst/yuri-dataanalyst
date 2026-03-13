@@ -64,10 +64,10 @@ Here are some highlights of my work. For a complete list, please visit my [repos
 
 | Project | Description | Tools Used |
 | :--- | :--- | :--- |
-| **[📊 Sales Performance Dashboard](link-to-repo-or-live-demo)** | An interactive Tableau dashboard tracking KPIs across regions, products, and sales teams, leading to a 15% improvement in identifying underperforming segments. | `Tableau` `SQL` `Excel` |
-| **[🧹 Customer Data Cleaning Pipeline](link-to-repo)** | A robust Python ETL script that automated the cleaning and validation of a 100k+ record customer dataset, reducing manual review time by 80%. | `Python` `Pandas` `Regex` |
-| **[📈 E-commerce Cohort Analysis](link-to-repo)** | Analysis of user retention and lifetime value (LTV) for an online store, providing insights that informed the marketing team's customer retention strategy. | `Python` `Matplotlib` `Seaborn` `Jupyter` |
-| **[🔍 Predictive Maintenance Analysis](link-to-repo)** | Exploratory analysis of IoT sensor data to identify early failure patterns in manufacturing equipment. | `Python` `Scikit-learn` `Plotly` |
+| **[📊 Sales Performance Dashboard]** | An interactive Tableau dashboard tracking KPIs across regions, products, and sales teams, leading to a 15% improvement in identifying underperforming segments. | `Tableau` `SQL` `Excel` |
+| **[🧹 Customer Data Cleaning Pipeline]** | A robust Python ETL script that automated the cleaning and validation of a 100k+ record customer dataset, reducing manual review time by 80%. | `Python` `Pandas` `Regex` |
+| **[📈 E-commerce Cohort Analysis]** | Analysis of user retention and lifetime value (LTV) for an online store, providing insights that informed the marketing team's customer retention strategy. | `Python` `Matplotlib` `Seaborn` `Jupyter` |
+| **[🔍 Predictive Maintenance Analysis]** | Exploratory analysis of IoT sensor data to identify early failure patterns in manufacturing equipment. | `Python` `Scikit-learn` `Plotly` |
 
 ---
 
