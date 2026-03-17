@@ -71,28 +71,6 @@ Here are some highlights of my work. For a complete list, please visit my [repos
 
 ---
 
-## 📈 GitHub Activity & Stats
-
-<div align="center">
-<!-- Dynamic Stats Cards: Choose ONE of the two options below -->
-
-
-<!-- Option 2: Cards that automatically switch for GitHub Dark/Light Mode (More advanced) -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yuarzumanyan-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yuarzumanyan-coder&show_icons=true&theme=default&hide_border=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuarzumanyan-coder&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yuarzumanyan-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yuarzumanyan-coder&layout=compact&theme=default&hide_border=true&langs_count=8">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuarzumanyan-coder&layout=compact&theme=default&hide_border=true" alt="Top Languages">
-</picture>
-
-
-</div>
-
 ### 🐍 My Contribution Graph... As a Game!
 <!-- This snake eats my contributions! Make sure to enable the GitHub Action (see Setup below). -->
 <p align="center">
